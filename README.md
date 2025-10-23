@@ -49,7 +49,7 @@ As usual, there's a lesson, assignments to complete, knowledge checks and challe
 
 Check it out:
 
-> https://aka.ms/genai-beginners
+> https://aka.ms/genai-beginnershggfh
 
 ---
 # Content
